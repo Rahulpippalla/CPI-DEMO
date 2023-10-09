@@ -3,7 +3,7 @@ Bundle-SymbolicName: DiscountCalc; singleton:=true
 Bundle-ManifestVersion: 2
 Origin-Bundle-SymbolicName: DiscountCalc
 SAP-ArtifactTrait: 
-Origin-Bundle-Version: 1.0.15
+Origin-Bundle-Version: 1.0.37
 Import-Package: com.sap.esb.application.services.cxf.interceptor,com.s
  ap.esb.security,com.sap.it.op.agent.api,com.sap.it.op.agent.collector
  .camel,com.sap.it.op.agent.collector.cxf,com.sap.it.op.agent.mpl,java
@@ -33,9 +33,9 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.s
 Origin-Bundle-Name: DiscountCalc
 SAP-RuntimeProfile: iflmap
 Bundle-Name: DiscountCalc
-Bundle-Version: 1.0.37
+Bundle-Version: 1.0.38
 SAP-NodeType: IFLMAP
-Origin-ModifiedDate: 1665487787853
+Origin-ModifiedDate: 1695062368675
 SAP-BundleType: IntegrationFlow
 Import-Service: com.sap.esb.webservice.audit.log.AuditLogger,com.sap.e
  sb.security.KeyManagerFactory;multiple:=false,com.sap.esb.security.Tr

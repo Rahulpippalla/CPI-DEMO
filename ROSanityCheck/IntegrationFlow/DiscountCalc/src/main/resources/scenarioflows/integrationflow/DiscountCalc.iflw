@@ -257,7 +257,7 @@
             <bpmn2:incoming>SequenceFlow_5</bpmn2:incoming>
             <bpmn2:outgoing>SequenceFlow_12</bpmn2:outgoing>
         </bpmn2:callActivity>
-        <bpmn2:callActivity id="CallActivity_4" name="DEMO 15-09-23">
+        <bpmn2:callActivity id="CallActivity_4" name="DEMO ">
             <bpmn2:extensionElements>
                 <ifl:property>
                     <key>componentVersion</key>
